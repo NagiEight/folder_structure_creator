@@ -1,0 +1,22 @@
+lib
+ config
+  routes
+  theme
+ core
+  error
+  network
+  usecases
+  util
+ features\auth
+  data
+   data_sources
+   models
+   repository
+  domain
+   entities
+   repository
+   usecases
+  presentation
+   bloc
+   pages
+   widgets
