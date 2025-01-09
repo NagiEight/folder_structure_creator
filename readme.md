@@ -24,7 +24,8 @@ pip install folder_structure_creator
 
 ## Usage
 
-1. Place a text file of the folder structure in the executable's directory.
+1. Place a text file of the folder structure in the executable's directory or `<user_home_directory>\AppData\Local\Packages\<python_distribution_directory>\LocalCache\local-packages\<python_version>\site-packages\folder_structure_creator
+` if it was installed with pip.
 2. Run the script.
 
 ```sh
